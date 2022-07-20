@@ -79,7 +79,6 @@ function game() {
     return "Draw!"
 }
 
-function startGame() {
-    console.log(game())
-}
+console.log(game())
+
 
